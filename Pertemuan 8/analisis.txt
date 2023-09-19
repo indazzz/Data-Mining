@@ -1,0 +1,6 @@
+2000018049-Inas Luthfianti Shaliha
+Analisis :
+1. Masuk dan Lulus
+    untuk mengetahui suatu kelayakan forecasting yang dilakukan dengan metode SVR menggunakan def mean_absolute_percentage_error pada In[25] ketika dijalankan menghasilkan 0.0% yang artinya peramalan atau prediksi yang dilakukan dengan variabel Masuk dan Lulus sangat baik.
+2. IPK dan Gaji
+    untuk mengetahui suatu kelayakan forecasting yang dilakukan dengan metode SVR menggunakan def mean_absolute_percentage_error pada In[25] ketika dijalankan menghasilkan 30328368.947369874% yang artinya peramalan atau prediksi yang dilakukan dengan variabel IPK dan Gaji adalah buruk.
